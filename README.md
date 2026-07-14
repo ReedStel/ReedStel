@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello World:
 🔭 I’m currently working on full-stack applications and portfolio projects  <br>👯 I’m looking to collaborate on software, AI and cloud-based projects  <br>🤝 I’m looking for opportunities to contribute to real development teams  <br>🌱 I’m currently learning DevOps, AWS and advanced software engineering  <br>💬 Ask me about Java, TypeScript, Next.js, Supabase or AWS  <br>⚡ Fun fact: I maintain a 6.9 GPA while building real-world projects
 
 
