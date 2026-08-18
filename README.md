@@ -1,21 +1,39 @@
-# 💫 Hello World:
-🔭 I’m currently working on full-stack applications and portfolio projects  <br>👯 I’m looking to collaborate on software, AI and cloud-based projects  <br>🤝 I’m looking for opportunities to contribute to real development teams  <br>🌱 I’m currently learning DevOps, AWS and advanced software engineering  <br>💬 Ask me about Java, TypeScript, Next.js, Supabase or AWS  <br>⚡ Fun fact: I maintain a 6.9 GPA while building real-world projects
+<div align="center">
 
+# Reed Stelfox
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ReedStelfox) 
+**Software engineering student building security-minded systems tools, automation, and full-stack products.**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ReedStel&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ReedStel&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ReedStel&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reed_Stelfox-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ReedStelfox)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=ReedStel&icon=9&color=0)](https://visitcount.itsvg.in)
+I like projects with visible engineering evidence: a reproducible build, useful tests, clear security boundaries, and documentation that explains both the design and its limits. The repositories below use fictional or documentation-only data and do not contain workplace systems, customer information, credentials, or private infrastructure details.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Selected projects
+
+| Project | What it demonstrates | Stack and evidence |
+| --- | --- | --- |
+| **[WireAtlas](https://github.com/ReedStel/WireAtlas)** | Offline classic-PCAP inspection with defensive parsing and deterministic reports | C++20, CMake, 28 regression tests, ASan/UBSan, libFuzzer, Linux/Windows/macOS CI |
+| **[OpsAtlas](https://github.com/ReedStel/OpsAtlas)** | Privacy-first fleet health and incident console with a real signed telemetry path | TypeScript, Node.js, HMAC-SHA256, replay protection, SSE, integration tests |
+| **[OpsProbe](https://github.com/ReedStel/opsprobe)** | Small, cross-platform workstation diagnostics with review-before-sharing reports | Python 3.11+, no runtime dependencies, redaction tests, six-platform CI matrix |
+| **[ReedLab AD Homelab](https://github.com/ReedStel/ReedLab-AD-Homelab)** | Reproducible Windows identity lab design with guarded PowerShell automation | AD DS, DNS/DHCP, GPO, Windows LAPS, WEF, AGDLP, static validation |
+| **[DMForge](https://github.com/ReedStel/DMFORGE)** | A focused outreach-writing workflow with server-side model access and bounded inputs | Next.js, React, OpenAI API, validation, accessible responsive UI |
+
+## What I work with
+
+- **Systems and security:** C++20, Python, PowerShell, Windows, Linux, network protocols, identity and access
+- **Web and backend:** TypeScript, JavaScript, React, Next.js, Node.js, HTTP APIs
+- **Engineering practice:** Git, GitHub Actions, automated testing, threat-aware design, runbooks and honest limitations
+
+## How I build
+
+1. Start with a narrow problem and define what the project deliberately will not do.
+2. Use synthetic demo data so the repository can be inspected safely.
+3. Add repeatable builds, tests, CI, and failure handling before calling it complete.
+4. Document the trade-offs so another engineer can review the reasoning, not just the screenshots.
+
+I hold **CompTIA Security+** and I am continuing to deepen my software engineering, systems, and defensive security skills through practical builds.
+
+<p align="center"><sub>Every featured repository is designed to be opened, run, and discussed in an interview.</sub></p>
